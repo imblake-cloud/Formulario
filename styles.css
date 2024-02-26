@@ -1,0 +1,42 @@
+/* Estilos personalizados */
+body {
+    background-color: #a0d2eb;
+  }
+  
+  .container {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #e5eaf5;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin-top: 50px;
+  }
+  
+  h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #d0bdf4;
+  }
+  
+  .form-label {
+    font-weight: bold;
+    color: #8458B3;
+  }
+  
+  .btn-primary {
+    background-color: #a28089;
+    border-color: #a28089;
+  }
+  
+  .btn-primary:hover {
+    background-color: #8458B3;
+    border-color: #8458B3;
+  }
+  
+  .required_notification {
+    color: #a28089;
+    font-size: 14px;
+    margin-top: 10px;
+  }
+  
